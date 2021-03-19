@@ -36,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FD5AEAC72602045D009FE365 /* 字符串的创建.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字符串的创建.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FD5AF46826049C31009FE365 /* 字符串的属性方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "字符串的属性方法.playground"; path = "../../../Library/Autosave Information/字符串的属性方法.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FD5AF46C2604AA0F009FE365 /* 元祖类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "元祖类型.playground"; path = "../../../Library/Autosave Information/元祖类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FDFB0DD625C3FCF30033BBAB /* SwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDFB0DD925C3FCF30033BBAB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FDFB0DDA25C3FCF30033BBAB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -54,14 +57,16 @@
 		FDFB0DFC25C3FCF80033BBAB /* SwiftDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDFB0E0025C3FCF80033BBAB /* SwiftDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwiftDemoUITests.m; sourceTree = "<group>"; };
 		FDFB0E0225C3FCF80033BBAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FDFB0E4D25C4118F0033BBAB /* 常量和变量.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "常量和变量.playground"; path = "../../Library/Autosave Information/常量和变量.playground"; sourceTree = "<group>"; };
-		FDFB0E5125C411900033BBAB /* 布尔类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "布尔类型.playground"; sourceTree = "<group>"; };
-		FDFB0E5225C411900033BBAB /* 标识符和关键字.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "标识符和关键字.playground"; sourceTree = "<group>"; };
-		FDFB0E5325C411900033BBAB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
-		FDFB0E5725C411900033BBAB /* 表达式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "表达式.playground"; sourceTree = "<group>"; };
-		FDFB0E5825C411900033BBAB /* 输出.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "输出.playground"; sourceTree = "<group>"; };
-		FDFB0E5925C411910033BBAB /* 注释.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "注释.playground"; sourceTree = "<group>"; };
-		FDFB0E5A25C411910033BBAB /* 类的输出.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "类的输出.playground"; sourceTree = "<group>"; };
+		FDFB0E5125C411900033BBAB /* 布尔类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "布尔类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5225C411900033BBAB /* 标识符和关键字.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "标识符和关键字.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5325C411900033BBAB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5725C411900033BBAB /* 表达式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "表达式.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5825C411900033BBAB /* 输出.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "输出.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5925C411910033BBAB /* 注释.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "注释.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E5A25C411910033BBAB /* 类的输出.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "类的输出.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0E6325C796E90033BBAB /* 常量和变量.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "常量和变量.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0ED925C7A6B40033BBAB /* Int类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Int类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDFB0EE925C7AC250033BBAB /* 浮点类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "浮点类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,12 +97,17 @@
 		FDFB0DCD25C3FCF30033BBAB = {
 			isa = PBXGroup;
 			children = (
+				FD5AF46C2604AA0F009FE365 /* 元祖类型.playground */,
+				FD5AF46826049C31009FE365 /* 字符串的属性方法.playground */,
+				FD5AEAC72602045D009FE365 /* 字符串的创建.playground */,
+				FDFB0EE925C7AC250033BBAB /* 浮点类型.playground */,
+				FDFB0ED925C7A6B40033BBAB /* Int类型.playground */,
 				FDFB0E5125C411900033BBAB /* 布尔类型.playground */,
 				FDFB0E5A25C411910033BBAB /* 类的输出.playground */,
 				FDFB0E5825C411900033BBAB /* 输出.playground */,
 				FDFB0E5225C411900033BBAB /* 标识符和关键字.playground */,
 				FDFB0E5725C411900033BBAB /* 表达式.playground */,
-				FDFB0E4D25C4118F0033BBAB /* 常量和变量.playground */,
+				FDFB0E6325C796E90033BBAB /* 常量和变量.playground */,
 				FDFB0E5925C411910033BBAB /* 注释.playground */,
 				FDFB0E5325C411900033BBAB /* MyPlayground.playground */,
 				FDFB0DD825C3FCF30033BBAB /* SwiftDemo */,
