@@ -39,6 +39,12 @@
 		FD5AEAC72602045D009FE365 /* 字符串的创建.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字符串的创建.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FD5AF46826049C31009FE365 /* 字符串的属性方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "字符串的属性方法.playground"; path = "../../../Library/Autosave Information/字符串的属性方法.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FD5AF46C2604AA0F009FE365 /* 元祖类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "元祖类型.playground"; path = "../../../Library/Autosave Information/元祖类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FD75889B262ED386007FAAF2 /* 多维数组、遍历.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "多维数组、遍历.playground"; path = "../../../Library/Autosave Information/多维数组、遍历.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FD75889F262ED894007FAAF2 /* 数组的遍历.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "数组的遍历.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDAAB0B12626DE2D00BDCBA4 /* 基本数据类型的转化.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "基本数据类型的转化.playground"; path = "../../../Library/Autosave Information/基本数据类型的转化.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDAAB0B52626EBC000BDCBA4 /* 数组的新建.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "数组的新建.playground"; path = "../../../Library/Autosave Information/数组的新建.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDC0AD0F2637F2EF001F4743 /* 字典.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字典.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDC0AD132637FC54001F4743 /* 一、二、三元运算符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "一、二、三元运算符.playground"; path = "../../../Library/Autosave Information/一、二、三元运算符.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FDFB0DD625C3FCF30033BBAB /* SwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDFB0DD925C3FCF30033BBAB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FDFB0DDA25C3FCF30033BBAB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -97,6 +103,12 @@
 		FDFB0DCD25C3FCF30033BBAB = {
 			isa = PBXGroup;
 			children = (
+				FDC0AD132637FC54001F4743 /* 一、二、三元运算符.playground */,
+				FDC0AD0F2637F2EF001F4743 /* 字典.playground */,
+				FD75889F262ED894007FAAF2 /* 数组的遍历.playground */,
+				FD75889B262ED386007FAAF2 /* 多维数组、遍历.playground */,
+				FDAAB0B52626EBC000BDCBA4 /* 数组的新建.playground */,
+				FDAAB0B12626DE2D00BDCBA4 /* 基本数据类型的转化.playground */,
 				FD5AF46C2604AA0F009FE365 /* 元祖类型.playground */,
 				FD5AF46826049C31009FE365 /* 字符串的属性方法.playground */,
 				FD5AEAC72602045D009FE365 /* 字符串的创建.playground */,

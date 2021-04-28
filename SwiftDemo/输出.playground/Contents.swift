@@ -20,7 +20,7 @@ print(say + " 123")
 
 let str = "world"
 print(say + str)
-//用\() 放在
+//用\() 拼接字符串变量 输出
 print("hello swift\(str)")
 
 
